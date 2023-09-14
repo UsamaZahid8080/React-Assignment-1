@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+}
+.icon-5{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+.icon-4{
+    height: 30px;
+    width: 30px;
+}
+.lastsection{
+    margin-top: 70px;
+    background-color: whitesmoke;
+}
+.lastsection h6{
+    padding: 20px 20px;
+}
+
